@@ -12,6 +12,8 @@ Clone the repo
 
 git clone
 
+https://github.com/JaroslawGlowacki/React-MarketApp.git
+
 Install the dependencies
 
 npm install
